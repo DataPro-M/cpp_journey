@@ -18,4 +18,4 @@ How we can scrap data from webpages using the Beautiful Soup.
 
 #### Screenshots
 
-![App Screenshot](images/Day_01.png)
+<img  src="images/Day_01.png" height="300"/> 
