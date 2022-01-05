@@ -5,17 +5,18 @@ It provides a solid basis for any programmer's skill set, and it is utilized for
 
 This repository is for those who don't have a background in software development but wish to learn C++. 
 
-## Day 1 of c++ journey
+## Day 1 of C++ journey
 
-How we can scrap data from webpages using the Beautiful Soup.
+Printing "Hello world" in the terminal
+- [Day 01](day01)
 
-  [Day 01](day01)
-#### Lessons Learned
+### Lessons Learned
 
 - [x] iostream
 - [x] Print out "Hello world!" in the terminal
 
-
-#### Screenshots
+### Screenshots
 
 <img  src="images/Day_01.png" height="300"/> 
+
+***
