@@ -12,8 +12,8 @@ How we can scrap data from webpages using the Beautiful Soup.
   [Day 01](day01)
 #### Lessons Learned
 
-- [x] Mercury
-- [x] Venus
+- [x] #include <iostream>
+- [x] prit out "Hello world!" in the terminal
 
 
 #### Screenshots
