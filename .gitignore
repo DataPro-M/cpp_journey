@@ -4,9 +4,11 @@
 # But not .cpp
 !*.cpp
 !*.h
+!*.png
 
 # Or directories
 !*/
 !.gitignore
 !README.md
 !images
+
