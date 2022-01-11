@@ -19,7 +19,6 @@ int main(int arg_count, char *args[]){
         print_menu(name);
     }
     else {
-
         cout << "Username not supplied.. exiting program";
     };
     return 0;

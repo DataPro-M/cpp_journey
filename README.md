@@ -20,3 +20,23 @@ Printing "Hello world" in the terminal
 <img  src="images/Day_01.png" height="300"/> 
 
 ***
+
+## Day 2 of C++ journey
+
+Creating a simple list add/delete
+- [Day 02](day02)
+
+### Lessons Learned
+
+- [x] if / else if / else
+- [x] for loop
+- [x] get item from user
+- [x] vectors
+
+### Screenshots
+
+<img  src="images/Day_02_02.png" height="220"/> 
+<img  src="images/Day_02_00.png" height="300"/> 
+<img  src="images/Day_02_01.png" height="150"/> 
+
+***
