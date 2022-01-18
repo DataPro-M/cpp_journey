@@ -64,6 +64,6 @@ list.cpp :
 
 day03.cpp :
 
-<img  src="images/Day_03_03.png" height="200"/>
+<img  src="images/Day_03_03.png" />
 
 ***
