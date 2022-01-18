@@ -54,7 +54,9 @@ Creating a simple list add/delete
 
 ### Screenshots
  list.h :
+ 
 <img  src="images/Day_03_01.png" height="300"/>
+
 list.cpp :
 <img  src="images/Day_03_02.png"/>
 
