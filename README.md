@@ -53,7 +53,12 @@ Creating a simple list add/delete
 - [x] src & include folders
 
 ### Screenshots
- list.h :
+
+day03.cpp :
+
+<img  src="images/Day_03_03.png" height="200"/>
+
+list.h :
 
 <img  src="images/Day_03_01.png" height="300"/>
 
