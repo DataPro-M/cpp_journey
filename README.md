@@ -67,3 +67,22 @@ day03.cpp :
 <img  src="images/Day_03_03.png" />
 
 ***
+
+## Day 4 of C++ journey
+
+Creating a simple list add/delete
+- [Day 04](day04)
+
+### Lessons Learned
+
+- [x] Switch
+- [x] Functions
+
+### Screenshots
+
+<img  src="images/Day_04_01.png" height="300"/>
+
+<img  src="images/Day_04_02.png"/>
+
+
+***
