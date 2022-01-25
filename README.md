@@ -115,7 +115,7 @@ Integer Promotion:
 <img  src="images/Day_05_04.png"/>
 
 Final output:
-
+`>> ./day05 arg1 arg2`
 <img  src="images/Day_05_06.png"/>
 
 
