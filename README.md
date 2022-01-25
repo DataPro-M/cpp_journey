@@ -70,7 +70,7 @@ day03.cpp :
 
 ## Day 4 of C++ journey
 
-Creating a simple list add/delete
+Creating a simple multi option program
 - [Day 04](day04)
 
 ### Lessons Learned
@@ -89,7 +89,7 @@ Creating a simple list add/delete
 
 ## Day 5 of C++ journey
 
-Creating a simple list add/delete
+Creating a simple multi option program
 - [Day 05](day05)
 
 ### Lessons Learned
