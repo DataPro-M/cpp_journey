@@ -103,13 +103,11 @@ Creating a simple multi option program
 Program Arguments:
 
 <img  src="images/Day_05_01.png" />
-
 <img  src="images/Day_05_05.png"/>
 
 goto:
 
 <img  src="images/Day_05_02.png"/>
-
 <img  src="images/Day_05_03.png"/>
 
 Integer Promotion:
