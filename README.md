@@ -86,3 +86,39 @@ Creating a simple list add/delete
 
 
 ***
+
+## Day 5 of C++ journey
+
+Creating a simple list add/delete
+- [Day 05](day05)
+
+### Lessons Learned
+
+- [x] Program Arguments
+- [x] goto
+- [x] Integer Promotion
+
+### Screenshots
+
+Program Arguments:
+
+<img  src="images/Day_05_01.png" />
+
+<img  src="images/Day_05_05.png"/>
+
+goto:
+
+<img  src="images/Day_05_02.png"/>
+
+<img  src="images/Day_05_03.png"/>
+
+Integer Promotion:
+
+<img  src="images/Day_05_04.png"/>
+
+Final output:
+
+<img  src="images/Day_05_06.png"/>
+
+
+***

@@ -7,7 +7,7 @@ void double_number_b(int* x);
 
 
 int main() {
-    int x; // Automatically infer type. Not a type in itself.
+    int x; 
     cout << "Inser an int number less than 3!" << endl;
     cin >> x;
     
