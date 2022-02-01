@@ -27,10 +27,10 @@ int main(int argc, char* argv[]) {
             case 2: 
                 if(argc < 2)  {
                     printf("\033c"); // For Linux/Unix : clear console
-                    cout << "no arguments were given! \n\n"  << endl; // one line if statement with optional init statement before condition
+                    cout << "no arguments were given! \n"  << endl; // one line if statement with optional init statement before condition
                 }
                 else { // or you can use a block
-                    cout << "\nnum of arguments: "  << argc << endl;
+                    cout << "\nnum of arguments: "  << argc-1 << endl;
                     program_arguments(argc, argv);
                 }	       
                 
@@ -42,21 +42,21 @@ int main(int argc, char* argv[]) {
         }         
 	}
     label:
-        cout << "\nInvalid choce. Quiting! \n" << endl; 
+        cout << "\nInvalid choice. Quiting! \n" << endl; 
 	return 0;
 }
 
 void integer_promotion(){
     auto x = 'A';
     // x is promoted to int to compare it with the integer value of 'a'.
-	if (x < 'a') cout << x << " is Less than " << "'a'" << "\n\n\n" << endl; 
+	if (x < 'a') cout << x << " is Less than " << "'a'" << "\n" << endl; 
 	
 }
 
 void program_arguments(int arg_c, char* arg_v[]){
     cout << "Our arguments are: " << endl;
-    for(auto i = 0; i < arg_c; i++) {
-		cout << i+1 << ". " << arg_v[i] << endl;
+    for(auto i = 1; i < arg_c; i++) {
+		cout << i << ". " << arg_v[i] << endl;
 	}
 }
 

@@ -120,3 +120,36 @@ Final output:
 
 
 ***
+
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 6 of C++ journey </i>
+</h2>
+
+Storage Classes in C++ with Examples
+
+<img  src="images/Day_06_CStorageClass.png"/>
+
+[ref: geeksforgeeks](https://www.geeksforgeeks.org/storage-classes-in-c-with-examples/)
+
+
+- [Day 06](day06)
+
+### Lessons Learned
+
+C++ uses 5 storage classes, namely: 
+- [x] auto
+- [x] register
+- [x] extern
+- [x] static
+- [x] mutable
+
+### Screenshots
+
+| Code            | results         |  
+|:---------------:|:---------------:|
+|<img  src="images/Day_06_01.png" width="300"/> |<img  src="images/Day_06_02.png" width="300"/>|
+|<img  src="images/Day_06_03.png" width="300"/> |<img  src="images/Day_06_04.png" width="300"/>|
+|<img  src="images/Day_06_05.png" width="300"/> |<img  src="images/Day_06_06.png" width="300"/>|
+|<img  src="images/Day_06_07.png" width="300"/> |<img  src="images/Day_06_08.png" width="300"/>|
+|<img  src="images/Day_06_09.png" width="300"/> |<img  src="images/Day_06_10.png" width="300"/>|
+
