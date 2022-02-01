@@ -1,4 +1,8 @@
-# Learning Path to C++
+# 
+<h1 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Learning Path to C++ </i>
+</h1>
+
 ***
 C++ is one of the most widely used programming languages worldwide.
 It provides a solid basis for any programmer's skill set, and it is utilized for everything from systems-level programming to mobile app development.
@@ -146,12 +150,12 @@ Storage Classes in C++ with Examples
 
 ### Lessons Learned
 
-C++ uses 5 storage classes, namely: 
-- [x] auto
-- [x] register
-- [x] extern
-- [x] static
-- [x] mutable
+- [x] C++ uses 5 storage classes, namely: 
+    1. auto
+    2. register
+    3. extern
+    4. static
+    5. mutable
 
 ### Screenshots
 
