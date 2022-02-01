@@ -163,7 +163,7 @@ Storage Classes in C++ with Examples
 |:---------------:|:---------------:|
 |<img  src="images/Day_06_01.png" /> |<img  src="images/Day_06_02.png" />|
 |<img  src="images/Day_06_03.png" /> |<img  src="images/Day_06_04.png" />|
-|<img  src="images/Day_06_05.png" /> |<img  src="images/Day_06_06.png" />|
+|<img  src="images/Day_06_05.png" /> |<img  src="images/Day_06_05_02.png" /><img  src="images/Day_06_06.png" />|
 |<img  src="images/Day_06_07.png" /> |<img  src="images/Day_06_08.png" />|
 |<img  src="images/Day_06_09.png" /> |<img  src="images/Day_06_10.png" />|
 
