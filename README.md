@@ -5,7 +5,9 @@ It provides a solid basis for any programmer's skill set, and it is utilized for
 
 This repository is for those who don't have a background in software development but wish to learn C++. 
 
-## Day 1 of C++ journey
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 1 of C++ journey </i>
+</h2>
 
 Printing "Hello world" in the terminal
 - [Day 01](day01)
@@ -21,7 +23,9 @@ Printing "Hello world" in the terminal
 
 ***
 
-## Day 2 of C++ journey
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 2 of C++ journey </i>
+</h2>
 
 Creating a simple list add/delete
 - [Day 02](day02)
@@ -41,7 +45,9 @@ Creating a simple list add/delete
 
 ***
 
-## Day 3 of C++ journey
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 3 of C++ journey </i>
+</h2>
 
 Creating a simple list add/delete
 - [Day 03](day03)
@@ -68,7 +74,9 @@ day03.cpp :
 
 ***
 
-## Day 4 of C++ journey
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 4 of C++ journey </i>
+</h2>
 
 Creating a simple multi option program
 - [Day 04](day04)
@@ -87,7 +95,9 @@ Creating a simple multi option program
 
 ***
 
-## Day 5 of C++ journey
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 5 of C++ journey </i>
+</h2>
 
 Creating a simple multi option program
 - [Day 05](day05)
@@ -127,7 +137,7 @@ Final output:
 
 Storage Classes in C++ with Examples
 
-<img  src="images/Day_06_CStorageClass.png"/>
+<img  src="images/Day_06_CStorageClass.png"  height="300"/>
 
 [ref: geeksforgeeks](https://www.geeksforgeeks.org/storage-classes-in-c-with-examples/)
 
