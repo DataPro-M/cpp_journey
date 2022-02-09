@@ -182,7 +182,8 @@ C++
 - [x] Type Qualifiers
 - [x] Inline function
 - [x] Inline function in class
-- [x] Ternary operator
+- [x] Ternary operator:
+            x = (condition) ? (value_if_true) : (value_if_false);
 - [x] address_resolution_operator
 
 ### Screenshots
@@ -194,4 +195,32 @@ C++
 |<img  src="images/Day_07_03_01.png" /> |<img  src="images/Day_07_03_02.png" /><img  src="images/Day_07_03_03.png" />|
 |<img  src="images/Day_07_04_01.png" /> |<img  src="images/Day_07_04_02.png" />|
 |<img  src="images/Day_07_05_01.png" /> |<img  src="images/Day_07_05_02.png" />|
+
+***
+
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 8 of C++ journey </i>
+</h2>
+
+C++ 
+
+- [Day 08](day08)
+
+### Lessons Learned
+
+- [x] address resolution operator:   ‘&’ 
+- [x] Dereference Operator
+- [x] Pointers
+- [x] Pointer Arithmetic
+
+### Screenshots
+
+| Code            | results         |  
+|:---------------:|:---------------:|
+|<img  src="images/Day_08_00.png" /> |<img  src="images/Day_08_01.png" />|
+|<img  src="images/Day_08_02.png" /> |<img  src="images/Day_08_03.png" />|
+|<img  src="images/Day_08_04.png" /> |<img  src="images/Day_08_05.png" />|
+|<img  src="images/Day_08_06.png" /> |<img  src="images/Day_08_07.png" />|
+
+
 
