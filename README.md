@@ -184,7 +184,6 @@ C++
 - [x] Inline function in class
 - [x] Ternary operator:
             x = (condition) ? (value_if_true) : (value_if_false);
-- [x] address_resolution_operator
 
 ### Screenshots
 
