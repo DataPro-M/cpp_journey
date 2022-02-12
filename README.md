@@ -221,5 +221,29 @@ C++
 |<img  src="images/Day_08_04.png" /> |<img  src="images/Day_08_05.png" />|
 |<img  src="images/Day_08_06.png" /> |<img  src="images/Day_08_07.png" />|
 
+***
 
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 9 of C++ journey </i>
+</h2>
+
+C++ 
+
+- [Day 08](day08)
+
+### Lessons Learned
+
+- [x] Structs
+- [x] Unions
+- [x] Bitwise Operations
+- [x] typedef
+
+### Screenshots
+
+| Code            | results         |  
+|:---------------|:---------------:|
+|<img  src="images/Day_09_02_01.png" />|<img  src="images/Day_09_02_02.png" /><img  src="images/Day_09_02_03.png" /> |
+|<img  src="images/Day_09_03_01.png" />|<img  src="images/Day_09_03_02.png" /><img  src="images/Day_09_03_03.png" /> |
+|<img  src="images/Day_09_04_01.png" />|<img  src="images/Day_09_04_02.png" />|
+|<img  src="images/Day_09_05_01.png" />|<img  src="images/Day_09_05_02.png" />|
 
