@@ -229,7 +229,7 @@ C++
 
 C++ 
 
-- [Day 08](day08)
+- [Day 09](day09)
 
 ### Lessons Learned
 
@@ -242,8 +242,8 @@ C++
 
 | Code            | results         |  
 |:---------------|:---------------:|
-|<img  src="images/Day_09_02_01.png" />|<img  src="images/Day_09_02_02.png" /><img  src="images/Day_09_02_03.png" /> |
-|<img  src="images/Day_09_03_01.png" />|<img  src="images/Day_09_03_02.png" /><img  src="images/Day_09_03_03.png" /> |
+|<img  src="images/Day_09_02_01.png" /><img  src="images/Day_09_02_02.png" />|<img  src="images/Day_09_02_03.png" /> |
+|<img  src="images/Day_09_03_01.png" /><img  src="images/Day_09_03_02.png" />|<img  src="images/Day_09_03_03.png" /> |
 |<img  src="images/Day_09_04_01.png" />|<img  src="images/Day_09_04_02.png" />|
 |<img  src="images/Day_09_05_01.png" />|<img  src="images/Day_09_05_02.png" />|
 
