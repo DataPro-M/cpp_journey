@@ -247,3 +247,30 @@ C++
 |<img  src="images/Day_09_04_01.png" />|<img  src="images/Day_09_04_02.png" />|
 |<img  src="images/Day_09_05_01.png" />|<img  src="images/Day_09_05_02.png" />|
 
+
+***
+
+<h2 align="center">
+      <i class="fas fa-calendar-day" aria-hidden="true">  Day 10 of C++ journey </i>
+</h2>
+
+<img  src="images/Day_10_01.png" />
+
+- [Day 010](day10)
+
+### Lessons Learned
+
+- [x] Enumerations
+- [x] Variadic Functions
+- [x] Threads
+- [x] Mutex
+
+### Screenshots
+
+| Code            | results         |  
+|:---------------|:---------------:|
+|<img  src="images/Day_10_02_01.png" /><img  src="images/Day_10_02_02.png" />|<img  src="images/Day_10_02_03.png" /> |
+|<img  src="images/Day_10_03_01.png" /><img  src="images/Day_10_03_02.png" />|<img  src="images/Day_10_03_03.png" /> |
+|<img  src="images/Day_10_04_01.png" /><img  src="images/Day_10_04_02.png" />|<img  src="images/Day_10_04_03.png" />
+|<img  src="images/Day_10_05_01.png" /><img  src="images/Day_10_05_02.png" />|<img  src="images/Day_10_05_03.png" />
+
